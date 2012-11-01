@@ -13,8 +13,8 @@ public class Main {
 		System.out.println("Hello World");
 		
 		System.out.println("Testing this git coding sytle");
-		System.out.println("Building phase");
-		System.out.println("business");
+		
+		System.out.println("business updates");
 		
 		int evType = 10;
 		int from_layer2 = 2;
